@@ -1,0 +1,8 @@
+1. can't use normal identifier to load image, need to distinguish math_op and image_op because image
+   should not be on the left side of MATHOP
+
+2. regex for reserved words in INDENTIFIER unresolved
+
+3. float math operation unresolved, img + img unresolved
+
+4. error handling unresolved
